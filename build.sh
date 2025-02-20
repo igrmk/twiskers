@@ -10,7 +10,7 @@ mkdir "$mac_iconset"
 for i in 16 32 64 128 256 512 1024
 do
     inkscape -h $i whiskers.svg --export-area=-18.3:-18.3:274.3:274.3 --export-filename whiskers_${i}x${i}.png
-    inkscape -h $i whiskers.svg --export-area=-31.1:-31.1:287.1:287.1 --export-filename "$mac_icons/whiskers_${i}x${i}.png"
+    inkscape -h $i whiskers.svg --export-area=-20:-20:276:276 --export-filename "$mac_icons/whiskers_${i}x${i}.png"
     exiftool -all= -overwrite_original_in_place whiskers_${i}x${i}.png
     exiftool -all= -overwrite_original_in_place "$mac_icons/whiskers_${i}x${i}.png"
 done
