@@ -1,7 +1,11 @@
 Twiskers
 ========
 
-<img src="twiskers.svg" width="180">
+<p align="center">
+    <img src="twiskers-light/twiskers-light.svg" width="180"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="twiskers-dark/twiskers-dark.svg" width="180"/>
+</p>
 
 An alternative application icon for [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 Works best if little flat icons and twiskers on kittens are a few of your favorite things.
@@ -12,8 +16,8 @@ Installation
 
 ### Linux
 
-1. Download [`twiskers_256x256.png`](https://github.com/igrmk/twiskers/raw/main/twiskers_256x256.png) to your preferred icons path .e.g `~/.icons` or `~/.local/share/icons`.
-2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **full absolute** path to the `twiskers_256x256.png` icon e.g. `/home/igrmk/.icons/twiskers_256x256.png`.
+1. Download one of the variants e.g. [`twiskers-light/twiskers-light-256x256.png`](https://github.com/igrmk/twiskers/raw/main/twiskers-light/twiskers-light-256x256.png) to your preferred icons path e.g. `~/.icons` or `~/.local/share/icons`.
+2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **full absolute** path to the `twiskers-256x256.png` icon e.g. `/home/igrmk/.icons/twiskers-256x256.png`.
 
 ### macOS
 
