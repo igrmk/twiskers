@@ -30,7 +30,7 @@
         </linearGradient>
     </defs>
     <rect x="5" y="5" width="246" height="246" ry="56" fill="url(#fillGradient)" stroke="url(#strokeGradient)" stroke-width="10"/>
-    <rect x="20" y="22" width="216" height="160" ry="60" fill="url(#screenFillGradient)" stroke="url(#screenStrokeGradient)" stroke-width="8"/>
+    <rect x="20" y="22" width="216" height="160" ry="70" fill="url(#screenFillGradient)" stroke="url(#screenStrokeGradient)" stroke-width="8"/>
     <path d="m57.139 132.2v-14.665l24.6-13.05q3.1196-1.6174 6.8618-2.4803-3.7423-0.75474-6.8618-2.372l-24.6-13.05v-14.782l40.998 22.433v15.419z" fill="#d19961"/>
     <path d="m198.4 132.2-40.998-22.433v-15.419l40.998-22.529v14.665l-24.6 13.05q-3.1196 1.6174-6.8619 2.4803 3.7423 0.75473 6.8619 2.372l24.6 13.05z" fill="#d19961"/>
     <circle cx="205.27" cy="212.2" r="16.199" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="9"/>
