@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <linearGradient id="fillGradient" x1="128" x2="128" y2="256" gradientUnits="userSpaceOnUse">
+        <linearGradient id="fillGradient" y2="1" gradientUnits="objectBoundingBox">
             <stop stop-color="#d6b69e" offset="0"/>
             <stop stop-color="#cb8553" offset=".09"/>
             <stop stop-color="#d18957" offset=".6"/>
@@ -9,12 +9,13 @@
             <stop stop-color="#d38d5f" offset=".9"/>
             <stop stop-color="#c38f41" offset="1"/>
         </linearGradient>
-        <linearGradient id="strokeGradient" x1="64" x2="192" y1="17.149" y2="238.85" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#eddfd4" offset="0"/>
+        <linearGradient id="strokeGradient" x1="0.25" x2="0.75" y2="1" gradientUnits="objectBoundingBox">
+            <stop stop-color="#edded4" offset="0"/>
+            <stop stop-color="#d2ac90" offset=".05"/>
             <stop stop-color="#bf9d88" offset=".18"/>
             <stop stop-color="#423024" offset="1"/>
         </linearGradient>
-        <linearGradient id="screenFillGradient" x1="128" x2="128" y2="256" gradientUnits="userSpaceOnUse">
+        <linearGradient id="screenFillGradient" y2="1" gradientUnits="objectBoundingBox">
             <stop stop-color="#735030" offset="0"/>
             <stop stop-color="#1e130b" offset=".09"/>
             <stop stop-color="#24170f" offset=".64"/>
@@ -22,10 +23,10 @@
             <stop stop-color="#160f09" offset=".9"/>
             <stop stop-color="#241a0f" offset="1"/>
         </linearGradient>
-        <linearGradient id="screenStrokeGradient" x1="192" x2="64" y1="238.85" y2="17.149" gradientUnits="userSpaceOnUse">
+        <linearGradient id="screenStrokeGradient" x1="0.75" y1="1" x2="0.25" y2="0" gradientUnits="objectBoundingBox">
             <stop stop-color="#d3b397" offset="0"/>
-            <stop stop-color="#c4a692" offset=".41642"/>
-            <stop stop-color="#87624a" offset=".5277"/>
+            <stop stop-color="#c4a692" offset=".42"/>
+            <stop stop-color="#87624a" offset=".53"/>
             <stop stop-color="#553d30" offset="1"/>
         </linearGradient>
     </defs>
