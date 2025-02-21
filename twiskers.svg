@@ -24,8 +24,9 @@
         </linearGradient>
         <linearGradient id="screenStrokeGradient" x1="192" x2="64" y1="238.85" y2="17.149" gradientUnits="userSpaceOnUse">
             <stop stop-color="#b57e4f" offset="0"/>
-            <stop stop-color="#9b7053" offset=".18"/>
-            <stop stop-color="#7d5b48" offset="1"/>
+            <stop stop-color="#9b7053" offset=".41642"/>
+            <stop stop-color="#674a38" offset=".5277"/>
+            <stop stop-color="#33251d" offset="1"/>
         </linearGradient>
     </defs>
     <rect x="5" y="5" width="246" height="246" ry="56" fill="url(#fillGradient)" stroke="url(#strokeGradient)" stroke-width="10"/>
