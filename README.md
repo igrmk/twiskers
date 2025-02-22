@@ -26,8 +26,9 @@ Installation
 
 ### Linux
 
-1. Download one of the variants e.g. [`twiskers-light/twiskers-light-256x256.png`](https://github.com/igrmk/twiskers/raw/main/twiskers-light/twiskers-light-256x256.png) to your preferred icons path e.g. `~/.icons` or `~/.local/share/icons`.
-2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **full absolute** path to the `twiskers-256x256.png` icon e.g. `/home/igrmk/.icons/twiskers-256x256.png`.
+1. Download one of the variants e.g. [`twiskers-light/twiskers-light-512x512.png`](https://github.com/igrmk/twiskers/raw/main/twiskers-light/twiskers-light-512x512.png)
+   to your preferred icons path e.g. `~/.icons` or `~/.local/share/icons`.
+2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **absolute** path to the downloaded icon e.g. `/home/igrmk/.icons/twiskers-light-512x512.png`.
 
 ### macOS
 
