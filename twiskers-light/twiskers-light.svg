@@ -16,8 +16,8 @@
             <stop stop-color="#423024" offset="1"/>
         </linearGradient>
         <linearGradient id="screenFillGradient" x1="1" x2="0" y1="1">
-            <stop stop-color="#1c1917" offset="0"/>
-            <stop stop-color="#2a2522" offset=".14272"/>
+            <stop stop-color="#161412" offset="0"/>
+            <stop stop-color="#1f1b19" offset=".14272"/>
             <stop stop-color="#38312e" offset=".67834"/>
             <stop stop-color="#3e3732" offset=".70834"/>
             <stop stop-color="#38322e" offset=".82971"/>
