@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <linearGradient id="fillGradient" y2="1">
+        <linearGradient id="fillGradient" x2="0" y2="1">
             <stop stop-color="#b88056" offset="0"/>
             <stop stop-color="#8d542b" offset=".09"/>
             <stop stop-color="#98572a" offset=".6"/>
@@ -14,7 +14,7 @@
             <stop stop-color="#92694f" offset=".18"/>
             <stop stop-color="#423024" offset="1"/>
         </linearGradient>
-        <linearGradient id="screenFillGradient" y2="1">
+        <linearGradient id="screenFillGradient" x1="1" y1="1" x2="0">
             <stop stop-color="#735030" offset="0"/>
             <stop stop-color="#1e130b" offset=".09"/>
             <stop stop-color="#24170f" offset=".64"/>
