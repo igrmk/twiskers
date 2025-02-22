@@ -1,11 +1,7 @@
 Twiskers
 ========
 
-<p align="center">
-    <img src="twiskers-light/twiskers-light.svg" width="180"/>
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="twiskers-dark/twiskers-dark.svg" width="180"/>
-</p>
+<img src="icon/twiskers.svg" width="180"/>
 
 An alternative application icon for [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font was used for angle brackets.
@@ -26,9 +22,9 @@ Installation
 
 ### Linux
 
-1. Download one of the variants e.g. [`twiskers-light/twiskers-light-512x512.png`](https://github.com/igrmk/twiskers/raw/main/twiskers-light/twiskers-light-512x512.png)
+1. Download one of the variants e.g. [`icon/twiskers-512x512.png`](https://github.com/igrmk/twiskers/raw/main/icon/twiskers-512x512.png)
    to your preferred icons path e.g. `~/.icons` or `~/.local/share/icons`.
-2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **absolute** path to the downloaded icon e.g. `/home/igrmk/.icons/twiskers-light-512x512.png`.
+2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **absolute** path to the downloaded icon e.g. `/home/igrmk/.icons/twiskers-512x512.png`.
 
 ### macOS
 
