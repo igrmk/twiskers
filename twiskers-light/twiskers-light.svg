@@ -16,12 +16,12 @@
             <stop stop-color="#423024" offset="1"/>
         </linearGradient>
         <linearGradient id="screenFillGradient" x1="1" x2="0" y1="1">
-            <stop stop-color="#735030" offset="0"/>
-            <stop stop-color="#1e130b" offset=".09"/>
-            <stop stop-color="#24170f" offset=".64"/>
-            <stop stop-color="#2c1c11" offset=".67"/>
-            <stop stop-color="#160f09" offset=".9"/>
-            <stop stop-color="#241a0f" offset="1"/>
+            <stop stop-color="#5c4c3d" offset="0"/>
+            <stop stop-color="#372d25" offset=".14272"/>
+            <stop stop-color="#3d3029" offset=".67834"/>
+            <stop stop-color="#43362d" offset=".70834"/>
+            <stop stop-color="#3d3229" offset=".82971"/>
+            <stop stop-color="#5b4d3e" offset="1"/>
         </linearGradient>
         <linearGradient id="screenStrokeGradient" x1=".75" x2=".25" y1="1">
             <stop stop-color="#d3b397" offset="0"/>
