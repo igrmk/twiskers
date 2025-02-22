@@ -10,8 +10,8 @@
             <stop stop-color="#c38f41" offset="1"/>
         </linearGradient>
         <linearGradient id="strokeGradient" x1=".25" x2=".75" y2="1">
-            <stop stop-color="#edded4" offset="0"/>
-            <stop stop-color="#d2ac90" offset=".05"/>
+            <stop stop-color="#dec2b0" offset="0"/>
+            <stop stop-color="#d1ab8f" offset=".05"/>
             <stop stop-color="#bf9d88" offset=".18"/>
             <stop stop-color="#423024" offset="1"/>
         </linearGradient>
