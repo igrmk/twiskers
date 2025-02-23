@@ -35,6 +35,13 @@ Development
 
 You need mac to build icons. Install inkscape and exiftool. Then run `build.sh` script.
 
+Bonus
+-----
+
+It doesn't work well as a small icon, but here is the version with the original cat reflected on the screen.
+
+<img src="bonus/twiskers-cat.svg" width="180"/>
+
 Other alternatives
 ------------------
 
