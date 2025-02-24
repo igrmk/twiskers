@@ -22,9 +22,10 @@ Installation
 
 ### Linux
 
-1. Download one of the variants e.g. [`icon/twiskers.svg`](https://github.com/igrmk/twiskers/raw/main/icon/twiskers.svg)
+1. Download [`icon/twiskers.svg`](https://github.com/igrmk/twiskers/raw/main/icon/twiskers.svg)
    to your preferred icons path e.g. `~/.icons` or `~/.local/share/icons`.
-2. Edit your `~/.local/share/applications/kitty.desktop` file and set the `Icon` parameter to the **absolute** path to the downloaded icon e.g. `/home/igrmk/.icons/twiskers.svg`.
+2. Edit your `~/.local/share/applications/kitty.desktop` file
+   and set the `Icon` parameter to the **absolute** path to the downloaded icon e.g. `/home/igrmk/.icons/twiskers.svg`.
 
 ### macOS
 
