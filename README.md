@@ -40,7 +40,7 @@ Bonus
 
 It doesn't work well as a small icon, but here is the version with the original cat reflected on the screen.
 
-<img src="bonus/twiskers-cat.svg" width="180"/>
+<img src="bonus/twiskers-cat.svg" width="220"/>
 
 Other alternatives
 ------------------

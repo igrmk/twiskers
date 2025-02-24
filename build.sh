@@ -9,6 +9,7 @@ mac_iconset="$tmp/mac.iconset"
 mkdir "$mac_iconset"
 
 xmlstarlet ed -u "/_:svg/@viewBox" -v "-18.3 -18.3 292.6 292.6" src/twiskers.svg > icon/twiskers.svg
+xmlstarlet ed -u "/_:svg/@viewBox" -v "-18.3 -18.3 292.6 292.6" src/twiskers-cat.svg > bonus/twiskers-cat.svg
 
 for i in 16 32 64 128 256 512 1024
 do
