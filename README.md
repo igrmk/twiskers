@@ -1,7 +1,7 @@
 Twiskers
 ========
 
-<img src="icon/twiskers.svg" width="180"/>
+<img src="icon/twiskers.svg" width="220"/>
 
 An alternative application icon for [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font was used for angle brackets.
