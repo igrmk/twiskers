@@ -7,7 +7,7 @@
       <stop stop-color="#d18957" offset=".6"/>
       <stop stop-color="#d38e5f" offset=".67"/>
       <stop stop-color="#d38d5f" offset=".9"/>
-      <stop stop-color="#c38f41" offset="1"/>
+      <stop stop-color="#cc7d47" offset="1"/>
     </linearGradient>
     <linearGradient id="strokeGradient" x1=".25" x2=".75" y2="1">
       <stop stop-color="#dec2b0" offset="0"/>
@@ -17,10 +17,10 @@
     </linearGradient>
     <linearGradient id="screenFillGradient" x1="1" x2="0" y1="1">
       <stop stop-color="#161412" offset="0"/>
-      <stop stop-color="#1f1b19" offset=".14272"/>
-      <stop stop-color="#38312e" offset=".67834"/>
-      <stop stop-color="#3e3732" offset=".70834"/>
-      <stop stop-color="#38322e" offset=".82971"/>
+      <stop stop-color="#1f1b19" offset=".14"/>
+      <stop stop-color="#38312e" offset=".68"/>
+      <stop stop-color="#3e3732" offset=".71"/>
+      <stop stop-color="#38322e" offset=".83"/>
       <stop stop-color="#544d45" offset="1"/>
     </linearGradient>
     <linearGradient id="screenStrokeGradient" x1=".75" x2=".25" y1="1">
