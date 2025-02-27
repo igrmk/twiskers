@@ -2,12 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1" viewBox="0 0 256 256">
     <defs>
         <linearGradient id="fillGradient" x2="0" y2="1">
-            <stop stop-color="#d6b69e" offset="0"/>
-            <stop stop-color="#cb8553" offset=".09"/>
-            <stop stop-color="#d18957" offset=".6"/>
-            <stop stop-color="#d38e5f" offset=".67"/>
-            <stop stop-color="#d38d5f" offset=".9"/>
-            <stop stop-color="#cc7d47" offset="1"/>
+            <stop stop-color="#e4c0a5" offset="0"/>
+            <stop stop-color="#d09062" offset=".09"/>
+            <stop stop-color="#d59467" offset=".6"/>
+            <stop stop-color="#d7996f" offset=".67"/>
+            <stop stop-color="#d7986f" offset=".9"/>
+            <stop stop-color="#d18957" offset="1"/>
         </linearGradient>
         <linearGradient id="strokeGradient" x1=".25" x2=".75" y2="1">
             <stop stop-color="#dec2b0" offset="0"/>
@@ -24,10 +24,10 @@
             <stop stop-color="#544d45" offset="1"/>
         </linearGradient>
         <linearGradient id="screenStrokeGradient" x1=".75" x2=".25" y1="1">
-            <stop stop-color="#d3b397" offset="0"/>
+            <stop stop-color="#cbb19f" offset="0"/>
             <stop stop-color="#c4a692" offset=".42"/>
             <stop stop-color="#87624a" offset=".53"/>
-            <stop stop-color="#553d30" offset="1"/>
+            <stop stop-color="#725240" offset="1"/>
         </linearGradient>
         <linearGradient id="bracketsColor">
             <stop stop-color="#e8ccb0" offset="0"/>
@@ -37,7 +37,7 @@
             <feGaussianBlur stdDeviation="1.1553096"/>
         </filter>
     </defs>
-    <rect x="3" y="3" width="250" height="250" ry="56" fill="url(#fillGradient)" stroke="url(#strokeGradient)" stroke-width="6"/>
+    <rect x="2" y="2" width="252" height="252" ry="56" fill="url(#fillGradient)" stroke="url(#strokeGradient)" stroke-width="4"/>
 
     <path d="
         m39 30
@@ -56,7 +56,7 @@
         2.6 -15.4 4.2 -18 20 -20
 
         z"
-        fill="url(#screenFillGradient)" stroke="url(#screenStrokeGradient)" stroke-width="8"/>
+        fill="url(#screenFillGradient)" stroke="url(#screenStrokeGradient)" stroke-width="6"/>
 
     <circle cx="205" cy="212" r="16" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="9"/>
     <path d="m34.5 206.5h129" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
