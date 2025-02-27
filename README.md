@@ -13,9 +13,11 @@ I'd like to believe that "twisker" means "a combination of a nose twitch which m
 Otherwise, it's just the combination of TV and whiskers.
 
 The original brown color of the Kitty icon was chosen, though the lightness differs.
-Long ago, an old tube TV served as my monitor,
-and I can't think of anything else that's brown and related to consoles other than a TV.
+Back in the day, an old tube TV served as my monitor,
+and I can't think of anything else brown that's related to consoles other than a TV.
 So, let it be TV.
+
+By the way, if you have a sharp eye and a good display, you might spot the original cat reflected on the screen.
 
 Installation
 ------------
@@ -36,12 +38,6 @@ Development
 
 You need mac to build icons. Install inkscape and exiftool. Then run `build.sh` script.
 
-Bonus
------
-
-It doesn't work well as a small icon, but here is the version with the original cat reflected on the screen.
-
-<img src="bonus/twiskers-cat.svg" width="220"/>
 
 Other alternatives
 ------------------
