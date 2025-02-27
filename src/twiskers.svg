@@ -9,7 +9,7 @@
             <stop stop-color="#d7986f" offset=".9"/>
             <stop stop-color="#d18957" offset="1"/>
         </linearGradient>
-        <linearGradient id="strokeGradient" x1=".25" x2=".75" y2="1">
+        <linearGradient id="strokeGradient" x1=".45" x2=".55" y2="1">
             <stop stop-color="#dec2b0" offset="0"/>
             <stop stop-color="#d1ab8f" offset=".05"/>
             <stop stop-color="#bf9d88" offset=".18"/>
@@ -23,11 +23,11 @@
             <stop stop-color="#38322e" offset=".83"/>
             <stop stop-color="#544d45" offset="1"/>
         </linearGradient>
-        <linearGradient id="screenStrokeGradient" x1=".75" x2=".25" y1="1">
-            <stop stop-color="#cbb19f" offset="0"/>
-            <stop stop-color="#c4a692" offset=".42"/>
-            <stop stop-color="#87624a" offset=".53"/>
-            <stop stop-color="#725240" offset="1"/>
+        <linearGradient id="screenStrokeGradient" x1=".45" x2=".55" y2="1">
+            <stop stop-color="#725240" offset="0"/>
+            <stop stop-color="#87624a" offset=".30"/>
+            <stop stop-color="#c4a692" offset=".53"/>
+            <stop stop-color="#cbb19f" offset="1"/>
         </linearGradient>
         <linearGradient id="bracketsColor">
             <stop stop-color="#e8ccb0" offset="0"/>
@@ -59,5 +59,5 @@
     <path d="m198.4 131.2-40.998-22.433v-15.419l40.998-22.529v14.665l-24.6 13.05q-3.1196 1.6174-6.8619 2.4803 3.7423 0.75473 6.8619 2.372l24.6 13.05z" fill="url(#bracketsColor)"/>
     <circle cx="205" cy="212" r="16" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="9"/>
     <path d="m34.5 206.5h129" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
-    <path d="m42.5 223.5h121" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+    <path d="m40.5 223.5h123" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
 </svg>
